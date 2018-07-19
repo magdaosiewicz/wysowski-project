@@ -1,0 +1,28 @@
+{
+  "name": "cancel",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "c709da589c923ba3c2ad48d9fc563e93",
+      "css": "cancel",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "um6h7e9nfp79peah8uphjhismoa8owtu",
+      "css": "chart-pie",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "7222571caa5c15f83dcfd447c58d68d9",
+      "css": "search",
+      "code": 59394,
+      "src": "entypo"
+    }
+  ]
+}

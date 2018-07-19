@@ -1,0 +1,24 @@
+#containerService{
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+body{
+    margin: 0;
+    /*background-color: blueviolet;*/
+    font-family: 'Muli', sans-serif
+}
+.modalService {
+    background-color: white;
+    width: 530px;
+    height: 530px;
+
+}
+/*.modal-active{*/
+    /*background:rgba(0,0,0,0.5)  !important;*/
+    /*transition: all 0.5s;*/
+    /*-webkit-transition: all 0.5s;*/
+    /*-moz-transition: all 0.5s;*/
+/*}*/
